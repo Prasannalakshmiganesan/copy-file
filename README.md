@@ -36,8 +36,11 @@ with open('sample.txt','r') as file1:
 ```
 
 ### OUTPUT:
+
 ![OUTPUT](./images/python.png)
+
 ![OUTPUT](./images/sample.png)
+
 ![OUTPUT](./images/san.png)
 
 
